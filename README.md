@@ -1,10 +1,10 @@
 # Fitness Tracker 
-A fitness tracking app built with **Pyhton** and **Streamlit**
+A fitness tracking app built with **Pyhton** and **Streamlit**.
 
 ## Features 
 - Log workouts (exercise, duration, and calories burned).
 - View past workouts
-- Interactive UI using **Streamlit** 
+- Interactive UI using **Streamlit**.
 
 ## Installation 
 1. Clone the Repository: 
@@ -16,7 +16,7 @@ A fitness tracking app built with **Pyhton** and **Streamlit**
 pip install -r requirements.txt 
 
 3. Run the app 
-streamlit run app.py
+streamlit run app.py 
 
 ## Usage 
 - Enter workout details in the input spots 
